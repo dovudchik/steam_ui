@@ -37,9 +37,9 @@ const App = () => {
         <div className="mn_fl">
 
         <div className="shd">
-          {/* <div className="hlp">
+          <div className="hlp">
 
-          </div> */}
+          </div>
         </div>
         <div className='man'>
           <div className='bx_hl'>
