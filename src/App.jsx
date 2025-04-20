@@ -9,6 +9,8 @@ import { RiPlantLine } from "react-icons/ri";
 import Belt from './components/Belt';
 import Footer from './components/Footer';
 const App = () => {
+
+
   return (
     <div>
             {/* <div className='body hidde'>
@@ -307,10 +309,15 @@ const App = () => {
 ></iframe>
 
 
+ 
     </div>
     {/* <h1>OUR LOCATION</h1>  */}
 
         </div>
+      
+      
+
+
       <Footer id='foot'/>
       <div id='foot'></div>
     </div>
@@ -318,3 +325,4 @@ const App = () => {
 }
 
 export default App
+
