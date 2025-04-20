@@ -1,0 +1,173 @@
+@media (max-width: 470px) {
+    body {
+      margin: 0;
+      padding: 0;
+      overflow-x: hidden;
+    }
+    .body{
+        display: none;
+    }
+  
+    header, nav, main {
+      width: 100%;
+      text-align: center;
+    }
+  
+    nav {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 12px;
+    }
+  
+    .hero-image {
+      display: none; /* или адаптировать изображение */
+    }
+  
+    .icons-sidebar {
+      display: none; /* скрываем боковые иконки или перемещаем вниз */
+    }
+  
+    .main-logo {
+      width: 80%;
+      margin: 20px auto;
+    }
+  
+    .cta-button {
+      width: 80%;
+      padding: 12px;
+      font-size: 16px;
+    }
+    .Bx_ps h1{
+        font-size: 50px;
+    }
+    .bx_hl{
+     flex-direction: row;   
+     flex-wrap: wrap;
+    }
+    .bx_hl i:nth-child(1){
+        display: none
+    };
+    .man{
+        flex-direction: column;
+    }
+    .blb{
+        width: max-content;
+        font-size: 12px;
+        background: #000;
+        
+    
+    }
+    .ad_h1{
+        font-size: 2px;
+    }
+    .boxabt{
+        display: none;
+    }
+    .Abt_inside{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        
+    }
+    .img_abt {
+      width: 60%;
+      height: max-content;
+      margin: 1rem;
+      box-shadow: 0px 11px 8px 12px rgba(34, 60, 80, 0.2);
+      z-index: 99;
+      background: #ffffff;
+      padding: 0;
+      }
+    .img_abt img{
+      width: 100%;
+    }  
+      .txt_abt h1{
+        font-size: 24px;
+      }
+      .txt_abt p{
+        font-size: 14px;
+        line-height: 20px;
+      }
+      .txt_abt{
+        justify-content: start;
+        gap: 20px;
+        
+        width: 100%;
+        height: max-content;
+      }
+      .Abt{
+        background-image: url('../public/Abt_adp_fon.png');
+      }
+
+      .bbody{
+        
+
+      }
+      .fl_hnd{
+        width: 2rem;
+        grid-template-columns: repeat(2,1fr);
+        margin-right: 40px;
+        
+      }
+      .fl_hnd h1{
+        font-size: 2rem;
+        grid-column: span 2;
+        padding-top: 0;
+      }
+      .wrk{
+        width: 10rem;
+        height: 10rem;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+        padding: 0;
+      }
+
+
+      .wrk h1{
+        font-size: 1.25rem;
+
+      }
+
+      .wrk p{
+        font-size: 0.8rem;
+        /* display: none; */
+      }
+      iframe{
+        width: 400px;
+        height: 500px;
+        margin-inline: auto;
+      }
+      .loc{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: row;
+      }
+      .lt_c{
+        flex-direction: column;
+
+      }
+
+      .circle{
+        width: 7rem;
+        height: 7rem;
+      }
+      .lt h1{
+        font-size: 1.125rem;
+        margin: 0;
+      }
+      .lt{
+        display: flex;
+        align-items: center;
+      }
+      .lt{
+        padding-left: 7rem;
+      }
+      .lectors{
+        height: 140vh;
+      }
+
+  }

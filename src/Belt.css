@@ -1,0 +1,44 @@
+/* Общие стили */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .bbody {
+    background: rgb(3, 151, 215);
+    width: 100%;
+    height: 10vh;
+    color: azure;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .blb {
+    width: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+  
+  .blb h1 {
+    font-size: 6rem ;
+  }
+  
+  /* Адаптив под маленькие экраны */
+  @media (max-width: 470px) {
+    .blb {
+      width: max-content;
+      background: rgb(3, 151, 215);
+      /* убрал font-size: 12px, чтобы не сбивал h1 */
+    }
+  
+    .blb h1 {
+      font-size: 2rem; /* уменьшаем, если нужно */
+    }
+    h1.blb{
+        font: 3rem;
+    }
+  }
+  
