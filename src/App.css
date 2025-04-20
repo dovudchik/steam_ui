@@ -11,6 +11,9 @@
     background: #ffffff;
     z-index: 99;
 }
+.logo{
+    background-image: url('../public/styopa.png');
+}
 
 .logo img{
     width: 60%;
