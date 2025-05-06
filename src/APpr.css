@@ -327,8 +327,17 @@ z-index: 99;
     height: 8rem;
 
     border-radius: 100%;
-    background-image: url(../public/Joha_brat.JPG);
     
+    background-position: center;
+    background-size: cover;
+    
+    
+}
+.Jh{
+    background-image: url(../public/Joha_brat.JPG);
+}
+.Al_lct{
+    background-image: url(../public/Alisher_lct.png);
 }
 .lt_c{
     display: flex;

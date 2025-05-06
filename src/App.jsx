@@ -260,8 +260,8 @@ const App = () => {
             <div className="lt_c">
 
             <div className="lt">
-              <div className="circle">
-
+              <div className="circle Jh">
+                
               </div>
                
               <h1>Alish Kalish </h1>
