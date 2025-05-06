@@ -260,7 +260,7 @@ const App = () => {
             <div className="lt_c">
 
             <div className="lt">
-              <div className="circle Jh">
+              <div className="circle Al_lct">
                 
               </div>
                
@@ -274,8 +274,8 @@ Cambridge Teaching Certificate sohibi
 
 10,000dan ortiq talabalarni Kimyo va Biologiyaga o'qitgan</p>
             </div>
-            <div className="lt">
-              <div className="circle">
+            <div className="lt">  
+              <div className="circle  Jh">
                 
               </div>
               

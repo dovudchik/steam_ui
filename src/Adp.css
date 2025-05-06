@@ -166,9 +166,14 @@
       .lt{
         padding-left: max-content;
         width: 100%;
+        margin-bottom: 2rem;
+        margin-top: 2rem ;
+        line-height: 20px;
       }
       .lectors{
         height: 100vh;
       }
-
+      .lct{
+        width: 80%;
+      }
   }
