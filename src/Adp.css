@@ -156,7 +156,7 @@
         height: 7rem;
       }
       .lt h1{
-        font-size: 1.125rem;
+        font-size: 1.25rem;
         margin: 0;
       }
       .lt{
@@ -164,10 +164,11 @@
         align-items: center;
       }
       .lt{
-        padding-left: 7rem;
+        padding-left: max-content;
+        width: 100%;
       }
       .lectors{
-        height: 140vh;
+        height: 100vh;
       }
 
   }

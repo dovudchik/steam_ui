@@ -8,6 +8,7 @@ import { SiAnimalplanet } from "react-icons/si";
 import { RiPlantLine } from "react-icons/ri";
 import Belt from './components/Belt';
 import Footer from './components/Footer';
+import Slider from './components/Slider';
 const App = () => {
 
 
@@ -262,9 +263,16 @@ const App = () => {
               <div className="circle">
 
               </div>
-              
-              <h1>Lorem ipsum dolor sit amet.</h1>
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nulla, perferendis qui? Nesciunt eos similique temporibus sed harum vitae, laborum unde!</p>
+               
+              <h1>Alish Kalish </h1>
+              <p>TMA Lyceum Direktori
+
+Kimyo o'qituvchisi
+
+IB Diploma
+Cambridge Teaching Certificate sohibi
+
+10,000dan ortiq talabalarni Kimyo va Biologiyaga o'qitgan</p>
             </div>
             <div className="lt">
               <div className="circle">
@@ -274,22 +282,7 @@ const App = () => {
               <h1>Lorem ipsum dolor sit amet.</h1>
               <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nulla, perferendis qui? Nesciunt eos similique temporibus sed harum vitae, laborum unde!</p>
             </div>
-            <div className="lt">
-              <div className="circle">
 
-              </div>
-              
-              <h1>Lorem ipsum dolor sit amet.</h1>
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nulla, perferendis qui? Nesciunt eos similique temporibus sed harum vitae, laborum unde!</p>
-            </div>
-            <div className="lt">
-              <div className="circle">
-
-              </div>
-              
-              <h1>Lorem ipsum dolor sit amet.</h1>
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nulla, perferendis qui? Nesciunt eos similique temporibus sed harum vitae, laborum unde!</p>
-            </div>
           </div>
             </div>
           </div>
@@ -317,7 +310,7 @@ const App = () => {
       
       
 
-
+{/* <Slider/> */}
       <Footer id='foot'/>
       <div id='foot'></div>
     </div>
