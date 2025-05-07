@@ -37,134 +37,15 @@ const App = () => {
       </div> */}
       <Header/>
       <main>
-        <div className="mn_fl">
+        {/* <div className="containerm"> */}
+          <div className="shd">
+            <div className="box">
 
-        <div className="shd">
-          <div className="hlp">
-
+            <img src="../public/styopa.png" alt="" />
+            <h1>Science Festival</h1>
+            </div>
           </div>
-        </div>
-        <div className='man'>
-          <div className='bx_hl'>
-            <h1 className='blue'>
-
-            < SlChemistry />
-            </h1>
-            <h1 className='green'>
-
-            <GiAtom />
-            </h1>
-            <h1 className='blue'>
-            <SiAnimalplanet />
-
-            </h1>
-            <h1 className='green'>
-            <RiPlantLine />
-
-            </h1>
-            <h1 className='blue'>
-
-< SlChemistry />
-</h1>
-<h1 className='green'>
-
-<GiAtom />
-</h1>
-<h1 className='blue'>
-<SiAnimalplanet />
-
-</h1>
-<h1 className='green'>
-<RiPlantLine />
-
-</h1>
-<h1 className='blue'>
-
-< SlChemistry />
-</h1>
-<h1 className='green'>
-
-<GiAtom />
-</h1>
-<h1 className='blue'>
-<SiAnimalplanet />
-
-</h1>
-{/* <h1 className='green'>
-<RiPlantLine />
-
-</h1> */}
-
-            
-
-          </div>
-          <div className='Bx_ps'>
-          <img src="/styopa.png" alt="" />
-            <h1>Summer Festival</h1>
-          </div>
-          <div className='bx_hl'>
-            <h1 className='blue'>
-
-            < SlChemistry />
-            </h1>
-            <h1 className='green'>
-
-            <GiAtom />
-            </h1>
-            <h1 className='blue'>
-            <SiAnimalplanet />
-
-            </h1>
-            <h1 className='green'>
-            <RiPlantLine />
-
-            </h1>
-            <h1 className='blue'>
-
-< SlChemistry />
-</h1>
-<h1 className='green'>
-
-<GiAtom />
-</h1>
-<h1 className='blue'>
-<SiAnimalplanet />
-
-</h1>
-<h1 className='green'>
-<RiPlantLine />
-
-</h1>
-<h1 className='blue'>
-
-< SlChemistry />
-</h1>
-<h1 className='green'>
-
-<GiAtom />
-</h1>
-<h1 className='blue'>
-<SiAnimalplanet />
-
-</h1>
-{/* <h1 className='green'>
-<RiPlantLine />
-
-</h1> */}
-
-            
-
-          </div>
-        </div>
-        <div className="shd">
-
-        </div>
-        </div>
-        {/* <div className="cntr_mn"> */}
-
         {/* </div> */}
-        {/* <div className="btn_ctn"></div> */}
-        {/* <Belt/> */}
       </main>
       <Belt/>
 

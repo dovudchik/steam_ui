@@ -75,70 +75,43 @@ nav a {
   
 
 main{
+    background-image: url("../public/main.jpg");
+    background-size: 50%;
     width: 100%;
-    height: 87vh;
-    
-    flex-direction: column;
-    display: flex;
+    height: 80vh;
 }
-
-.mn_fl{
-    display: flex;
-    width: 100%;
+.containerm{
+    width: 45%;
+    margin-inline: auto;
+    position: relative;
 }
 .shd{
-    background: #00000062;
-    height: 85%;
-    width: 20%;
-    background-image: url('../public/main.jpg');
-    background-size: cover;
-}
-.hlp{
-    width: 100%;
-    height: 100%;
-    background: #45444455;
-}
-.man{
-    height: 85%;
     width: 60%;
+    height: 80vh;
+    background: #ffffffa7;
     position: relative;
-    display: flex;
-    justify-content: space-between;
+    clip-path: polygon(0 0, 83% 0, 100% 100%, 0% 100%);
+
 }
 
-.man img{
-    width: 400px;
-}
-
-.Bx_ps{
+.box{
+    width: 50%;
+    height: 50%;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     display: flex;
     flex-direction: column;
-    align-items: center;
+    justify-content: center;
+    
 }
-
-.Bx_ps h1{
-    font-size: 64px;
-    color: #191c30;
-    margin-top: 30px;
+.shd img{
+    width: 95%;
 }
-
-.Bx_ps img{
-    width: 90%;
-}
-
-.bx_hl{
-    font-size: 24px;
-    display: flex;
-    justify-content: space-around;
-    flex-direction: column;
-    height: 100%;
-    width: max-content;
-    padding: 30px;
-
+.box h1{
+    font-size: 4.5rem;
+    
 }
 .blue{
     color: rgb(3, 151, 215);

@@ -64,6 +64,19 @@
     .ad_h1{
         font-size: 2px; 
     }
+    .box {
+      width: 100%;
+    }
+    .box h1 {
+      position: absolute;
+      right: 10%;
+      top: 64%;
+      font-size: 3rem;
+    }
+    .box img{
+      width: 85%;
+      margin-left: 0.5rem;
+    }
     .boxabt{
         display: none;
     }
