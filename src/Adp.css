@@ -192,4 +192,17 @@
       .lct{
         width: 80%;
       }
+      .fl_hnd{
+        padding-top: 2rem;
+      }
+  }
+
+  @media (max-height: 698px) {
+    .lct{
+      height: 90vh;
+    }
+    .circle{
+      width: 6rem;
+      height: 6rem;
+    }
   }
