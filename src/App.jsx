@@ -99,7 +99,7 @@ const App = () => {
 
           </div>
           <div className='Bx_ps'>
-            <img src="../public/styopa.png" alt="" />
+          <img src="/styopa.png" alt="" />
             <h1>Summer Festival</h1>
           </div>
           <div className='bx_hl'>
@@ -173,7 +173,7 @@ const App = () => {
           <div className="Abt_inside">
 
         <div className="img_abt">
-          <img src="../public/Abt.jpg" alt="" />
+        <img src="/Abt.jpg" alt="" />
           <div className="boxabt grn1 green"></div>
           <div className="boxabt blue bl1"></div>
           <div className="boxabt grn2 green"></div>
