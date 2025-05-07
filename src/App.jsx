@@ -170,6 +170,8 @@ const App = () => {
             </div>
           </div>
       </section>
+      <div className="container">
+
           <div className="loc">
             
           <div style={{ width: "900px", height: "750px" }}>
@@ -190,6 +192,7 @@ const App = () => {
     {/* <h1>OUR LOCATION</h1>  */}
 
         </div>
+      </div>
       
       
 
