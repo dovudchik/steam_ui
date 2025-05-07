@@ -114,6 +114,7 @@
       }
       .Abt{
         background-image: url('../public/Abt_adp_fon.png');
+        margin-bottom: 7rem;
       }
 
       .bbody{
@@ -197,12 +198,16 @@
       }
   }
 
-  @media (max-height: 698px) {
+  @media (max-height: 574px) {
     .lct{
-      height: 90vh;
+      height: 120vh;
     }
     .circle{
       width: 6rem;
       height: 6rem;
+    }
+    .lectors{
+      margin-top: 14rem;
+      margin-bottom: 8rem;
     }
   }
