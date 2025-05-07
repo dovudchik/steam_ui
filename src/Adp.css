@@ -51,15 +51,18 @@
     .man{
         flex-direction: column;
     }
-    .blb{
+    .blb{ 
         width: max-content;
-        font-size: 12px;
+        
         background: #000;
         
     
     }
+    .blb p{
+      font-size: 1.5rem;
+    }
     .ad_h1{
-        font-size: 2px;
+        font-size: 2px; 
     }
     .boxabt{
         display: none;
@@ -152,11 +155,11 @@
       }
 
       .circle{
-        width: 7rem;
-        height: 7rem;
+        width: 9rem;
+        height: 9rem;
       }
       .lt h1{
-        font-size: 1.25rem;
+        font-size: 1.5rem;
         margin: 0;
       }
       .lt{

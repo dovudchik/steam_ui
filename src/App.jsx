@@ -166,6 +166,7 @@ const App = () => {
         {/* <div className="btn_ctn"></div> */}
         {/* <Belt/> */}
       </main>
+      <Belt/>
 
       <section id='Abt' className="Abt">
         <div className="container">
@@ -264,23 +265,24 @@ const App = () => {
                 
               </div>
                
-              <h1>Alish Kalish </h1>
-              <p>TMA Lyceum Direktori
-
-Kimyo o'qituvchisi
-
-IB Diploma
-Cambridge Teaching Certificate sohibi
-
-10,000dan ortiq talabalarni Kimyo va Biologiyaga o'qitgan</p>
+              <h1>Alisher Ganiyev </h1>
+              
             </div>
             <div className="lt">  
               <div className="circle  Jh">
                 
               </div>
               
-              <h1>Lorem ipsum dolor sit amet.</h1>
-              <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nulla, perferendis qui? Nesciunt eos similique temporibus sed harum vitae, laborum unde!</p>
+              <h1>Mr Jakhongir</h1>
+              
+            </div>
+            <div className="lt">  
+              <div className="circle  Fer">
+                
+              </div>
+              
+              <h1>Feruza Rashidova  </h1>
+              
             </div>
 
           </div>

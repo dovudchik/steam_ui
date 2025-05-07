@@ -12,9 +12,9 @@
     z-index: 99;
 }
 .logo{
-    background-image: url('../public/styopa.png');
+    
     width: 3rem;
-    background: #000;
+    
     height: 2rem;
 }
 

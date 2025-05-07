@@ -20,6 +20,10 @@
     display: flex;
     align-items: center;
     justify-content: space-around;
+    font-size: 2.5rem;
+  }
+  .blb p:nth-child(1){
+    font-size: 3rem;
   }
   
   .blb h1 {

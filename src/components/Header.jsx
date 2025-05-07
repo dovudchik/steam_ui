@@ -11,7 +11,7 @@ const Header = () => {
                 <div className='logo'>
             <a href="#home">
 
-            
+            <img src="./public/styopa.png" alt="" />
             </a>
                 </div>
                 <nav>

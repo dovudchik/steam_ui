@@ -19,9 +19,9 @@ const Footer = () => {
         <div className="footer-section">
           <h3>SOCIAL MEDIA</h3>
           <div className="socials">
-            <a href="#">Instagram</a>
-            <a href="#">Telegram</a>
-            <a href="#">YouTube</a>
+            <a href="https://www.instagram.com/s.t.e.a.m_festival?igsh=bWVodHcxaXM3bmln">Instagram</a>
+            <a href="https://t.me/Science_Festival">Telegram</a>
+            
           </div>
         </div>
       </div>
