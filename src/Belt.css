@@ -20,14 +20,14 @@
     display: flex;
     align-items: center;
     justify-content: space-around;
-    font-size: 2.5rem;
+    font-size: 1.75rem;
   }
   .blb p:nth-child(1){
     font-size: 3rem;
   }
   
   .blb h1 {
-    font-size: 6rem ;
+    font-size: 4rem ;
   }
   
   /* Адаптив под маленькие экраны */

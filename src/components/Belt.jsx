@@ -11,7 +11,7 @@ const Belt = () => {
         </div>
         <div className="blb">
           <h1 className='blbh'>PLACE </h1>
-          <p>TOSHME     LITSEY  </p>
+          <p>Toshkent Tibbiyot Akademiyasi Litseyi</p>
         </div>
         
     </div>

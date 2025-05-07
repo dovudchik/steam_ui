@@ -257,7 +257,7 @@ const App = () => {
         <div className="container">
           
           <div className="lct">
-            <h1 className='lctt'>LECTORS</h1>
+            <h1 className='lctt'>LECTURES</h1>
             <div className="lt_c">
 
             <div className="lt">
