@@ -196,6 +196,13 @@
       .fl_hnd{
         padding-top: 2rem;
       }
+      .logos{
+        flex-direction: column;
+
+      }
+      .logos img{
+        width: 100%;
+      }
   }
 
   @media (max-height: 574px) {
@@ -211,3 +218,4 @@
       margin-bottom: 8rem;
     }
   }
+
