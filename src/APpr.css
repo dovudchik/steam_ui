@@ -354,3 +354,12 @@ z-index: 99;
     background-image: url('../public/hnd_fon.png');
    background-size: cover; 
 }
+
+.logos{
+    display: flex;
+    
+    justify-content: space-between;
+    margin-top: 10rem;
+    margin-bottom: 10rem;
+
+}

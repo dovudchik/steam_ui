@@ -54,7 +54,7 @@ const App = () => {
           <div className="Abt_inside">
 
         <div className="img_abt">
-        <img src="/Abt.jpg" alt="" />
+        <img src="/Group.jpg" alt="" />
           <div className="boxabt grn1 green"></div>
           <div className="boxabt blue bl1"></div>
           <div className="boxabt grn2 green"></div>
@@ -138,7 +138,7 @@ const App = () => {
         <div className="container">
           
           <div className="lct">
-            <h1 className='lctt'>LECTURES</h1>
+            <h1 className='lctt'>ORGANIZERS</h1>
             <div className="lt_c">
 
             <div className="lt">
@@ -172,6 +172,18 @@ const App = () => {
       </section>
       <div className="container">
 
+      <div className="logos">
+
+        <div className="lg">
+          <img src="/Mah.jpg" alt="" />
+        </div>
+        <div className="lg">
+          <img src="/YLDP.jpg" alt="" />
+        </div>
+      </div>
+      </div>
+      <div className="container">
+
           <div className="loc">
             
           <div style={{ width: "900px", height: "750px" }}>
@@ -192,7 +204,7 @@ const App = () => {
     {/* <h1>OUR LOCATION</h1>  */}
 
         </div>
-      </div>
+      </div>o
       
       
 
